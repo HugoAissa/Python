@@ -1,0 +1,48 @@
+
+
+"" '' = delimitadores
+toda funcão tem que ter ()
+concatenação é + ou virgula podendo variar
+toda variavel é um objeto, variavel é um pouco mais que um objeto
+em concatenação de variaveis cotendo literal e numerica utiliza ,.
+
+
+
+TIPOS PRIMITIVOS:
+
+int() = numerico, Exemplo = 7, -4, 0, 59456654456
+float() = numeros reais ou de pontos flutuantes, Exemplo = 4.5, 0.7755, -15.223
+bool() = valores logicos ou boleanos, Exemplo = True e False
+str() = caractere ou string, Exemplo = 'Ola' , '15', ''
+
+Para verficar qual tipo primitivo está sendo usando é print(type(variavel))
+
+
+
+Operadores Aritimeticos:
+
+5 ** 2 é 5 elevado ao quadrado = 25
+5 // é a divisão inteira sem ponto ou virgula = 2
+5 % 2 é a sobra da divisão = 1
+
+Ordem de Precedencia:
+
+1 () parenteses
+2 ** portencias
+3  * / // % veses divisão divisão inteira  e sobra da divisão
+4 + - mais e menos
+
+Modulos:
+
+from / import
+
+Importaçoes a bibliotecas, por conta da limitação do python importamos funcionalidades.
+
+para incluir podemos usar import Exemplo: import bebida para importar uma função especifica 
+from bebida import coca
+
+biblioteca padrão math
+math = matematica
+
+
+    
